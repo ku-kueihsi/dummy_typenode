@@ -1,0 +1,23 @@
+{
+  "name": "dummy_typenode",
+  "version": "1.0.0",
+  "description": "Play with typescript on node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ku-kueihsi/dummy_typenode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ku-kueihsi/dummy_typenode/issues"
+  },
+  "homepage": "https://github.com/ku-kueihsi/dummy_typenode#readme"
+}
